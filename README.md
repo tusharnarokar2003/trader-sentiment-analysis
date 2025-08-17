@@ -24,10 +24,3 @@ This project explores the relationship between historical trader performance and
 
 ---
 
-## ⚙️ How to Run
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/trader-sentiment-analysis.git
-   cd trader-sentiment-analysis
-# -trader-sentiment-analysis
